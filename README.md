@@ -2,7 +2,7 @@
 
 Hi! I'm Jatin Kumar, a B.Tech CSE undergraduate (2025–2029) at NIT Delhi.
 
-This repository contains my solutions to LeetCode problems as I strengthen my understanding of Data Structures & Algorithms. The problems are solved in a random order based on my learning goals, interview preparation, contests, and curiosity.
+This repository contains my solutions to LeetCode problems as I strengthen my understanding of Data Structures & Algorithms. The problems are solved in a random order based on my learning goals,with multiple approaches i tried and learnt from, interview preparation, contests, and curiosity.
 
 🎯 Goals:
 
