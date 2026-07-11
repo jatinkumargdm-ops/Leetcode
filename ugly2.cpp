@@ -23,7 +23,7 @@ public:
     //         num++;
     //     }
     // }
-    
+    //0(nlogn) time and 0(1) space
     
     //  2nd approach tried to approach using multiples and pointers but it fails for n=11 when  14 also gives an ugly number.
 //     int nthUglyNumber(int n) {
@@ -72,3 +72,4 @@ public:
         return result[n - 1];
     }
 };
+//0(n) time and 0(n) space
