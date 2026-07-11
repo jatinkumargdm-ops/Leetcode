@@ -15,3 +15,4 @@ public:
         return i==n-1;
     }
 };
+// 0(n)time and 0(1)space
