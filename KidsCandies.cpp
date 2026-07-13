@@ -4,8 +4,8 @@ using namespace std;
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
-    // 1st approach brute force in 0(n2) time and 0(n)space
-        //  vector<bool> result;
+    // 1st approach brute force in 0(n2) time and 0(n)space complexity
+        //  vector<bool> result;  
         // for (int i = 0; i < candies.size(); i++) {
         //     bool greatest = true;
         //     for (int j = 0; j < candies.size(); j++) {
